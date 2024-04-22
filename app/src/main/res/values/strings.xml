@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ThatIsSuccecful</string>
+    <string-array name="fromLang">
+        <item>English</item>
+        <item>Russian</item>
+        <item>Chinese</item>
+    </string-array>
+
+    <string-array name="toLang">
+        <item>English</item>
+        <item>Russian</item>
+        <item>Chinese</item>
+    </string-array>
+</resources>
